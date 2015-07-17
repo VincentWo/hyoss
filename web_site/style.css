@@ -1,0 +1,13 @@
+body {
+	background-color: lightgrey !important;
+}
+
+#logo {
+	float: right;
+}
+
+#member, #member th, #member td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px
+}
